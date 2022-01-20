@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'perkspotazloadtestingspike'
+  webAppName: 'perkspotazloadtestingspikeeastus-rg'
   serviceConnection: 'azLoadTestingSpike'
   azureSubscriptionId: '2bbd1c0d-c763-4b76-9fd8-4b1e77a2f718'
   loadTestResource: 'AZLoadTestingSpike'
